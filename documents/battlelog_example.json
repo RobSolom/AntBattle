@@ -3,7 +3,7 @@
 // Information of Player. Send only start of game
 {
 	"player":{
-		index": 0,
+		"index": 0,
 		"library":
 		{
 			"filename":"red.dll",
